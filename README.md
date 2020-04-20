@@ -1,2 +1,2 @@
 # coursera-test
-cooursera test repository gh branch demo website
+cooursera test repository
